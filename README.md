@@ -14,3 +14,4 @@ CHP 8: Ensemble Learning
 CHP 9: Model Evaluation and Selection
 CHP 10: Feature Selection
 CHP 11: Assembling Various Learning Steps
+CHP 12: Clustering
